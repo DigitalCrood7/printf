@@ -1,5 +1,5 @@
 C-printf Group Project
-Team: Liam Watson, She-ilah Mutale
+Team: Yabeths Fasil, Miklol Girma
 
 Task 0: Function that produces output according to a format
 Task 1: Handling certain conversion specifiers: d, i.
